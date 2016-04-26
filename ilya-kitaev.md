@@ -1,3 +1,3 @@
 # BIO
-* [] blabla
-* [] blabla
+
+** favourite color: green
